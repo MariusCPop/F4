@@ -15,4 +15,9 @@
 #
 # The output should be 5
 
+# 3. De la romanache - Create a program that translates the contents of "test.txt"  to another language (italian, french etc).
+# - import the necessary module for translation
+# - write the translation in a new file "translated.txt". Do not create the file manually. Bonus: add the language to the file.
+# - change the language and add the new translation to the previous file
+
 # More exercises at https://www.pyforschool.com/assignment/file-handling.html
