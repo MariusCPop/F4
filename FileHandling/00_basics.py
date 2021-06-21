@@ -3,11 +3,11 @@ my_file = open('test.txt')
 try:
     print(my_file.read())
     print("It worked")
-    print(my_file.read())
-    print("It did not print")
-    my_file.seek(0)
-    print(my_file.read())
-    print("It works again")
+    # print(my_file.read())
+    # print("It did not print")
+    # my_file.seek(0)
+    # print(my_file.read())
+    # print("It works again")
     # print(my_file.readline())  # returneaza un string
     # my_file.seek(0)
     # print(my_file.readlines())  # returneaza o lista
